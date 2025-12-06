@@ -78,11 +78,6 @@ To run the integration tests, run the following command:
 pytest --integration
 ```
 
-📸 Screenshots
-----------------
-[![Screenshot 1](https://via.placeholder.com/400x200)](https://via.placeholder.com/400x200)
-[![Screenshot 2](https://via.placeholder.com/400x200)](https://via.placeholder.com/400x200)
-
 📦 API Reference
 ------------------
 The project provides the following API endpoints:
@@ -109,7 +104,7 @@ print(response.json())
 
 👤 Author
 ----------
-The project was created by [Your Name](https://github.com/your-username).
+The project was created by Prabhav Saxena(https://github.com/Prabhav-1525/).
 
 📝 License
 ----------
